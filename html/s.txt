@@ -1,3 +1,12 @@
-x-special/nautilus-clipboard
-copy
-file:///home/dev5/Desktop/Nookesh/html
+1-->To Config:
+	git config –global user.name “[name]”
+	git config –global user.email “[email address]”
+2-->To start new respiratory
+	git init [repository name]
+3-->To start already existing respiratory
+	git clone [URL]
+4-->To add a file into a stgging area
+	git add [file]
+	git add * (add one or more to stagging area
+	)
+
